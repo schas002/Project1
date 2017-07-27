@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+  <advance width="500"/>
+	<!-- Next follows a list of 28 (!) unicode mappings to .notdef -->
+  <unicode hex="0001"/>
+  <unicode hex="0002"/>
+  <unicode hex="0003"/>
+  <unicode hex="0004"/>
+  <unicode hex="0005"/>
+  <unicode hex="0006"/>
+  <unicode hex="0007"/>
+  <unicode hex="000A"/>
+  <unicode hex="000B"/>
+  <unicode hex="000C"/>
+  <unicode hex="000E"/>
+  <unicode hex="000F"/>
+  <unicode hex="0010"/>
+  <unicode hex="0011"/>
+  <unicode hex="0012"/>
+  <unicode hex="0013"/>
+  <unicode hex="0014"/>
+  <unicode hex="0015"/>
+  <unicode hex="0016"/>
+  <unicode hex="0017"/>
+  <unicode hex="0018"/>
+  <unicode hex="0019"/>
+  <unicode hex="001A"/>
+  <unicode hex="001B"/>
+  <unicode hex="001C"/>
+  <unicode hex="001E"/>
+  <unicode hex="001F"/>
+  <unicode hex="007F"/>
+  <outline>
+    <contour>
+      <point x="50" y="750" type="line"/>
+      <point x="450" y="750" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="725" type="line"/>
+      <point x="75" y="25" type="line"/>
+      <point x="425" y="25" type="line"/>
+      <point x="425" y="725" type="line"/>
+    </contour>
+  </outline>
+</glyph>
